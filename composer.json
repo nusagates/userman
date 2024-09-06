@@ -1,0 +1,17 @@
+{
+    "name": "nusagates/userman",
+    "description": "User manager for laravel",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nusagates\\Userman\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cak Bud",
+            "email": "budairi@leap.id"
+        }
+    ],
+    "require": {}
+}
